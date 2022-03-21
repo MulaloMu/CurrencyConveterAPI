@@ -10,8 +10,8 @@ The below are instructions about the currency conversion API with different meth
 
 This can be tested using Postman, below is the example APIs created.
 
-Conver GBP to ZAR: https://localhost:44344/api/Currencies/?amount=1000000&ConversionType=GBP_ZAR
-Conver USD to ZAR: https://localhost:44344/api/Currencies/?amount=1000000&ConversionType=USD_ZAR
+Convert GBP to ZAR: https://localhost:44344/api/Currencies/?amount=1000000&ConversionType=GBP_ZAR
+Convert USD to ZAR: https://localhost:44344/api/Currencies/?amount=1000000&ConversionType=USD_ZAR
 
 Convert Any currency(Specify currencies): https://localhost:44344/api/Currencies/?from=usd&to=zar&amount=1000000
 
